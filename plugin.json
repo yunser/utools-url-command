@@ -1,0 +1,14 @@
+{
+    "main": "./dist/index.html",
+    "preload": "./dist/main.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "网络命令",
+            "explain": "重新加载网络命令",
+            "cmds": [
+                "网络命令"
+            ]
+        }
+    ]
+}
